@@ -10,6 +10,7 @@ The logic used to calculate time taken to collide is described below:
 2)If the relative position is parallel to the relative velocity , they won't collide unless speeds are changed. They actually separate.
 
 3)If the relative position and relative velocity are non-parallel, they won't collide unless directions are changed.
+
 In the main() function,
 a sample set of data is used to take a trial of calling the methods.
 
